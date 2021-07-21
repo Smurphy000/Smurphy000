@@ -21,7 +21,7 @@ I am currently working on Big Data projects on the Databricks platform, utilizin
 
 ## Outside of work ...
 
-I am finishing up my master's degree program in Computer Science with a focus on machine learning and software engineering. Also, I am working on contributing to open source projects that I believe in, and learning new technologies and programming languages including: [Rust](https://github.com/rust-lang/rust) and [Scala](https://github.com/scala/scala)
+I am finishing up my master's degree program in Computer Science with a focus on machine learning and software engineering. Also, I am working on contributing to open source projects, and learning new technologies and programming languages including: [Rust](https://github.com/rust-lang/rust) and [Scala](https://github.com/scala/scala)
 
 ![Image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
