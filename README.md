@@ -1,35 +1,49 @@
 # Hey, I'm Conner Murphy
 
-### _Remote work is the dream_
-### You can find me here
+I am a Software Engineer who loves working remotely. I love technology and learning new things. Most of my experience is in large technology companies working in an agile environment. If you would like to connect, reach out on LinkedIn.
 
 <a href="https://www.linkedin.com/in/conner-murphy-4776b3148/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://stackoverflow.com/users/14072673/smurphy0000">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
 
-## I am Currently working on ...
+---
+
+## Current Work
+
+![Image](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=orange)
+![Image](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Image](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=4B8BBE)
+
+- Developing microservices in Java on AWS
+
+---
+
+## Outside Work
+
+![Image](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=b7410e)
+![Image](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Image](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=000000)
+
+- Contributing to open source projects
+- Learning new technologies and programming languages including
+  - [Rust](https://github.com/rust-lang/rust)
+  - [TypeScript](https://github.com/microsoft/TypeScript)
+  - [Next.js](https://github.com/vercel/next.js/)
+
+---
+
+## Previous Work
+
 - Big Data projects on the Databricks platform, utilizing [Apache Spark](https://github.com/apache/spark) and [Delta Lake](https://github.com/delta-io)
 - Designing databases and data models
 - Implementing CI/CD pipelines and automated tests
-- Ensuring quality data and providing analytics
+- Data quality and analytics
 
-![Image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Image](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Image](https://img.shields.io/badge/microsoft%20azure-FFFFFF?style=for-the-badge&logo=microsoft-azure&logoColor=008AD7)
+![Image](https://img.shields.io/badge/Azure_DevOps-FFFFFF?style=for-the-badge&logo=azure-devops&logoColor=008AD7)
+![Image](https://img.shields.io/badge/Databricks-FFFFFF?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
-## Outside of work I am ...
-
-- Completing my master's degree program in Computer Science 
-- Contributing to open source projects
-- Learning new technologies and programming languages including: [Rust](https://github.com/rust-lang/rust) and [Scala](https://github.com/scala/scala)
-
-![Image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
 [![Smurphy000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smurphy000&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
