@@ -6,8 +6,6 @@ I am a Software Engineer who loves working remotely. I love technology and learn
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
----
-
 ## Current Work
 
 ![Image](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=orange)
@@ -15,8 +13,6 @@ I am a Software Engineer who loves working remotely. I love technology and learn
 ![Image](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=4B8BBE)
 
 - Developing microservices in Java on AWS
-
----
 
 ## Outside Work
 
@@ -30,8 +26,6 @@ I am a Software Engineer who loves working remotely. I love technology and learn
   - [TypeScript](https://github.com/microsoft/TypeScript)
   - [Next.js](https://github.com/vercel/next.js/)
 
----
-
 ## Previous Work
 
 - Big Data projects on the Databricks platform, utilizing [Apache Spark](https://github.com/apache/spark) and [Delta Lake](https://github.com/delta-io)
@@ -43,7 +37,5 @@ I am a Software Engineer who loves working remotely. I love technology and learn
 ![Image](https://img.shields.io/badge/microsoft%20azure-FFFFFF?style=for-the-badge&logo=microsoft-azure&logoColor=008AD7)
 ![Image](https://img.shields.io/badge/Azure_DevOps-FFFFFF?style=for-the-badge&logo=azure-devops&logoColor=008AD7)
 ![Image](https://img.shields.io/badge/Databricks-FFFFFF?style=for-the-badge&logo=databricks&logoColor=FF3621)
-
----
 
 [![Smurphy000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smurphy000&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
