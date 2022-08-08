@@ -11,10 +11,11 @@ I am a Software Engineer who loves technology and learning new things. Most of m
 ![Image](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=orange)
 ![Image](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Image](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Image](https://img.shields.io/badge/Snowflake-FFFFFF?style=for-the-badge&logo=snowflake&logoColor=4B8BBE)
 
 - Developing microservices using gRPC and Java
 - Implementing serverless function using Python
-- Building an recommendation engine in Snowflake
+- Building a recommendation engine in Snowflake using SQL and Javascript
 
 ## Outside Work
 
